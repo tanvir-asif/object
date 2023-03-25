@@ -1,0 +1,3 @@
+# object
+
+class 34
